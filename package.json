@@ -1,0 +1,58 @@
+{
+  "name": "grunt-behance",
+  "description": "The best Grunt plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/behance/grunt-behance",
+  "author": {
+    "name": "Behance Javascript",
+    "email": "sedunn@adobe.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/behance/grunt-behance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/behance/grunt-behance/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/behance/grunt-behance/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "grunt-contrib-jshint": "0.8.0",
+    "grunt-karma": "~0.6.1",
+    "karma-jasmine": "~0.1.0",
+    "karma-requirejs": "~0.1.0",
+    "karma-firefox-launcher": "~0.1.0",
+    "karma-script-launcher": "~0.1.0",
+    "karma-chrome-launcher": "~0.1.0",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-coffee-preprocessor": "~0.1.0",
+    "karma-phantomjs-launcher": "~0.1.0",
+    "karma": "0.10.8",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-requirejs": "0.4.1",
+    "be-paige": "^0.3.0",
+    "karma-coverage": "~0.1.0",
+    "karma-junit-reporter": "~0.1.0",
+    "fork-pool": "0.0.2",
+    "grunt-jscs-checker": "0.4.1",
+    "grunt-scss-lint": "0.1.5",
+    "grunt-shell": "0.6.4",
+    "grunt-phpunit": "~0.3.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
