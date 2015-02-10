@@ -24,6 +24,7 @@
     "test": "grunt test"
   },
   "dependencies": {
+    "be-karma-stacktrace-transforms": "~1.0.1",
     "be-paige": "0.3.2",
     "fork-pool": "0.0.2",
     "grunt-contrib-jshint": "0.8.0",
