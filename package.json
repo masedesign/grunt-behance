@@ -26,6 +26,7 @@
   "dependencies": {
     "be-karma-stacktrace-transforms": "~1.0.1",
     "be-paige": "0.3.2",
+    "build-layer-lint": "0.1.0",
     "fork-pool": "0.0.2",
     "grunt-contrib-jshint": "0.8.0",
     "grunt-jscs": "1.2.0",
