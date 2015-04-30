@@ -6,7 +6,7 @@ module.exports = function(grunt) {
 
     var buildLayerLocation = options.buildConfig;
     var moduleRootLocation = options.moduleRoot;
-    var ignore = options.ignore;
+    var ignore = options.ignore || [];
 
     var missingModules = buildLayerLint(buildLayerLocation, moduleRootLocation);
     missingModules = missingModules.filter(function(module) {
