@@ -1,4 +1,6 @@
 module.exports = function(grunt) {
+  require('time-grunt')(grunt);
+
   grunt.registerTask('sniff', ['jscs:main']);
   grunt.registerTask('lint', ['jshint', 'jscs:main', 'y_u_no_bundle', 'build_lint']);
   grunt.registerTask('test', ['lint', 'karma:single']);
