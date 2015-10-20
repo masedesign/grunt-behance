@@ -35,7 +35,7 @@
     "grunt-scss-lint": "0.1.5",
     "grunt-shell": "0.6.4",
     "grunt-y-u-no-bundle": "~1.0.1",
-    "jscs-preset-behance": "^1.0.0",
+    "jasmine-core": "^2.3.0",
     "karma": "~0.12.0",
     "karma-be-reporter": "~1.0.0",
     "karma-chrome-launcher": "~0.1.0",
