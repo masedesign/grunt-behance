@@ -29,7 +29,7 @@
     "be-paige": "0.4.0",
     "build-layer-lint": "0.2.0",
     "fork-pool": "0.0.2",
-    "grunt-contrib-jshint": "0.8.0",
+    "grunt-contrib-jshint": "0.11.3",
     "grunt-jscs": "2.1.0",
     "grunt-karma": "~0.8.3",
     "grunt-phpunit": "~0.3.2",
