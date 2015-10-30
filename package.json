@@ -1,7 +1,7 @@
 {
   "name": "grunt-behance",
   "description": "The best Grunt plugin ever.",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "homepage": "https://github.com/behance/grunt-behance",
   "author": {
     "name": "Behance Javascript",
