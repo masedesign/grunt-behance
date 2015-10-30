@@ -24,8 +24,9 @@
     "test": "grunt test"
   },
   "dependencies": {
+    "babel": "^4.7.16",
     "be-karma-stacktrace-transforms": "~1.0.1",
-    "be-paige": "0.3.2",
+    "be-paige": "0.4.0",
     "build-layer-lint": "0.2.0",
     "fork-pool": "0.0.2",
     "grunt-contrib-jshint": "0.8.0",
@@ -37,6 +38,7 @@
     "grunt-y-u-no-bundle": "~1.0.1",
     "jasmine-core": "^2.3.0",
     "karma": "~0.12.0",
+    "karma-babel-preprocessor": "^4.0.1",
     "karma-be-reporter": "~1.0.0",
     "karma-chrome-launcher": "~0.1.0",
     "karma-coffee-preprocessor": "~0.1.0",
