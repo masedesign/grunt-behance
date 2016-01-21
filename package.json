@@ -33,7 +33,7 @@
     "grunt-jscs": "2.1.0",
     "grunt-karma": "~0.8.3",
     "grunt-phpunit": "~0.3.2",
-    "grunt-scss-lint": "0.1.5",
+    "grunt-scss-lint": "^0.3.8",
     "grunt-shell": "0.6.4",
     "grunt-y-u-no-bundle": "~1.0.1",
     "jasmine-core": "^2.3.0",
